@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "telemedicinechatbotvone",
+  "private_key_id": "3f6b9169894476453c2667360f61fa630226a4df",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDBZiamoxBnqEx6\nv5GmUTN6HXaA9x64aFKCAhr0ZdnnavYO2ed1fvW5Oyfrb5gx4EolBKvVQsp/l448\n2pITXZTo5EEZ930Zbu11KU2MPxdcUUt8F9q6Khdtz8YupgJDHnoZlHcMDQ9a6a5k\n9k15JWK52MJoTMDATwGtSU6Hu3UzF6HMBTA4cQnFsviQKqLbKj8TusePqjFyXjPg\npg0WnjeRYLRfUG4hRoqTZhuTq19qwFcRVivoC1xkuy4HVFWj9ERcY0FwL9SjbWAn\nz5puauQNjuk7Ng7iVYtqcTB39pOFDKP+GafDJjeaSehShTnO9RXQ+axao6E5NWNk\nfelqTEuLAgMBAAECggEAF9EDRCojRGCkFR8E9L0IiyqYWVwVWxLzINzZgkIOCkL7\nIkEQu+tynz5QYDH8msfK2bGFklxd9kXXrQQi+7eJNapGSh2sOOGW5IK9m155pf4X\nlE9BDwP39qdLpJr/qacAf6iaMHsQlQWKBcI/MC1mcbSRMamiDbdXtttRjG2NX/PQ\n7D3s+VLnT0Bt3x38NZ17eTh3NEvPz8EggnmhVx4iq/xZi1ZJPMVkBA3gdqIhTmXs\nZPm/cwe4Q8B8onBJ4w2GdBUy/hQXl5X9MBZyxizH608/8VtwL/RtRyRfN8ffVTYB\nmTHtkYE+2UA0gcoCoKxIm1BsD6qoWoHgoGlmWG9UAQKBgQDjP/LF7xKmYnAy9lKW\nKFBB8oVBEgLsTr9Aj9J7yrGi18KT56c5bAbzLOWAGdQoNTewYY5nJ/+DLhss24kH\ndEq1PELMIs/tCVWsYdkvkl+7IOCnuiUmTe+xyjt6wjDw2R/ulnlrTFGuyIQlZIkP\nWSr5/bxYk1LrveH7pRXWZIXdCwKBgQDZ3dxpIE5WzPWizuJOTtEoRHvCu/t44JlR\nLTt8zZGtvNIZSZvzLwLrDXUr+acWisdeJYp477HUMn+uLxBRQI5RHXktFq0p19Um\nk06XoM4bWHhFdeDFtQdUCSD+9PHGdZ7CCJDsS2P7OkQ0S+FhkUWw1iAJuHf/oHkS\n1czFcO9bgQKBgQCp7bGuTL1XaZiYoxTSb8bD6YO3Sq6g4amlr2YnZ0Q5jrlTPBAR\nojP4NwROLAI3JsRDwk9n18L65skvW+I1jsImj68rUoTErQxBYNG0/vFSzpzvDwSk\nhfbMrXqYqwlJsDJuiFq231TdK9eU1n6e2YCHezMR0Oham5yWPbX8oSJwTQKBgDWB\nTiMnQvYASgcc5ekzZByOjRJrFjw+dIjCIgzpc3CGodaCBGG51u6hFHijTEy18naF\no7dFrpede0vs1QYPY6Q6J8tR+V8AWaGqpa+JV3TRyl/MrlH/vnf98fOLdmE1+7JN\nZkIR1dEaIyvwwr4ybjoarC2W9yl5YKKmjS6kKLSBAoGBAOBzTZ9jz/DMPnLg2aXV\nhxsD7/9z76I8sIqDqGk1e6gMz8AJIMf7mcLUw0xeoJOpe06kXI3b1/+6vo64sMbC\nOizJI2iC3o1Sa39bQGzOneuu7OZTgaIAmo8joyBy5Qrf9m2HAlLPi2j1rCLrIgM/\nm72qwkwMoXtA7LdMLNAf8Fa6\n-----END PRIVATE KEY-----\n",
+  "client_email": "telemedicinechatbotvone@telemedicinechatbotvone.iam.gserviceaccount.com",
+  "client_id": "114567148165714767921",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/telemedicinechatbotvone%40telemedicinechatbotvone.iam.gserviceaccount.com"
+}

@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "935702072856",
+    "project_id": "telemedicinev3",
+    "storage_bucket": "telemedicinev3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935702072856:android:20fef741c08bebfd13fd6d",
+        "android_client_info": {
+          "package_name": "com.example.TELEMEDICINEAPP"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935702072856-30o27kqp549f1irv2cshoapr90a12j97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEr-VXpM0PQYJajPmkuu-SQtYyNh9TUD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935702072856-30o27kqp549f1irv2cshoapr90a12j97.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935702072856:android:b398a686d893a93413fd6d",
+        "android_client_info": {
+          "package_name": "com.example.Telemedicinelast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935702072856-30o27kqp549f1irv2cshoapr90a12j97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEr-VXpM0PQYJajPmkuu-SQtYyNh9TUD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935702072856-30o27kqp549f1irv2cshoapr90a12j97.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

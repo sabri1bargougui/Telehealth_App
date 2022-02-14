@@ -1,0 +1,33 @@
+.flyout {
+	display:flex;
+	flex-direction: column;
+	min-height:100vh;
+	justify-content: space-between;
+}
+
+.home-feature-box .fa {
+	font-size:6rem;
+}
+
+.home-feature-box span {
+	display: block;
+	color:#111;
+	font-weight:bold;
+	margin-top:1.5rem;
+}
+
+.example-components-list li > a {
+  color: #495057;
+}
+
+.example-components-list li:last-child > a {
+	border-bottom:0;
+}
+
+ 
+div.mdb-datatable{
+	margin-left: 100px;
+	margin-right: 10rem;
+	margin-top: 1rem;
+	
+ }
